@@ -1,5 +1,8 @@
 ### Hi there 👋
+- 👯 I'm Zarina Khassanova.
+- 🔭  I’m currently working on QA Automation Engineer
 
+HardSkils:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <!--
