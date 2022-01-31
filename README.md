@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 <!--
 **ZarinaKhassanova/ZarinaKhassanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
