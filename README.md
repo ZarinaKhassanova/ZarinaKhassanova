@@ -5,6 +5,8 @@
 HardSkils:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+                             ![image](https://user-images.githubusercontent.com/93208567/152170766-bf1fbf2a-c380-4543-ac5a-566fd371aac8.png)
+
 <!--
 **ZarinaKhassanova/ZarinaKhassanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
