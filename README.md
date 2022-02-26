@@ -1,4 +1,4 @@
-
+<img align="right" width="35%" src="src/gif/animationQA.gif">
 <p align="left">
 ### Hi there 👋
 - I'm Zarina Khassanova.
@@ -9,7 +9,7 @@ HardSkils:<br/>
 <code><img width="5%" title="IntelliJ IDEA" src="src/images/IDEA-logo.svg"></code>
 <code><img width="5%" title="Java" src="src/images/java-logo.svg"></code>
 <code><img width="5%" title="Selenide" src="src/images/selenide-logo.svg"></code>
-<code><img width="5%" title="REST-Assured" src="images/daramirra_rest-assured-logo.svg"></code>
+<code><img width="5%" title="REST-Assured" src="images/rest-assured-logo.svg"></code>
 <code><img width="5%" title="Selenoid" src="src/images/selenoid-logo.svg"></code>
 <code><img width="5%" title="Gradle" src="src/images/gradle-logo.svg "></code>
 <code><img width="5%" title="JUnit5" src="src/images/junit5-logo.svg"></code>
@@ -20,7 +20,7 @@ HardSkils:<br/>
 <code><img width="5%" title="Jira" src="src/images/jira-logo.svg"></code>
 <code><img width="5%" title="Telegram" src="src/images/Telegram.svg"></code>
 
-<img align="right" width="35%" src="src/gif/animationQA.gif">
+
 
 <!--
 **ZarinaKhassanova/ZarinaKhassanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
