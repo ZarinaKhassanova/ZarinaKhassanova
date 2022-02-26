@@ -4,7 +4,7 @@
 - I'm Zarina Khassanova.
 - I’m currently working on QA Automation Engineer
 
-HardSkils:<br/>
+#HardSkils:
 <code><img width="5%" title="IntelliJ IDEA" src="src/images/IDEA-logo.svg"></code>
 <code><img width="5%" title="Java" src="src/images/java-logo.svg"></code>
 <code><img width="5%" title="Selenide" src="src/images/selenide-logo.svg"></code>
