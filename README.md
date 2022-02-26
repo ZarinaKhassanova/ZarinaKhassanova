@@ -1,10 +1,10 @@
 <img align="right" width="35%" src="src/gif/animationQA.gif">
 
-### Hi there 👋
+## Hi there 👋
 - I'm Zarina Khassanova.
 - I’m currently working on QA Automation Engineer
 
-# HardSkils:
+### HardSkils:
 <code><img width="5%" title="IntelliJ IDEA" src="src/images/IDEA-logo.svg"></code>
 <code><img width="5%" title="Java" src="src/images/java-logo.svg"></code>
 <code><img width="5%" title="Selenide" src="src/images/selenide-logo.svg"></code>
