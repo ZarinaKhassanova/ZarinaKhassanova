@@ -3,10 +3,11 @@
 - 👯 I'm Zarina Khassanova.
 - 🔭  I’m currently working on QA Automation Engineer
 
+<img align="right" width="35%" src="attachments/gif/animation.gif">
+
 HardSkils:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-![2019-05-23](https://user-images.githubusercontent.com/93208567/152171019-a4c81627-b8bb-4193-a61c-b35539f9cc0a.jpg)
 
 <!--
 **ZarinaKhassanova/ZarinaKhassanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
