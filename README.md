@@ -1,9 +1,8 @@
 <img align="right" width="35%" src="src/gif/animationQA.gif">
-<p align="left">
+
 ### Hi there 👋
 - I'm Zarina Khassanova.
 - I’m currently working on QA Automation Engineer
-</p>
 
 HardSkils:<br/>
 <code><img width="5%" title="IntelliJ IDEA" src="src/images/IDEA-logo.svg"></code>
