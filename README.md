@@ -9,7 +9,7 @@ HardSkils:<br/>
 <code><img width="5%" title="IntelliJ IDEA" src="src/images/IDEA-logo.svg"></code>
 <code><img width="5%" title="Java" src="src/images/java-logo.svg"></code>
 <code><img width="5%" title="Selenide" src="src/images/selenide-logo.svg"></code>
-<code><img width="5%" title="REST-Assured" src="images/rest-assured-logo.svg"></code>
+<code><img width="5%" title="REST-Assured" src="src/images/rest-assured-logo.svg"></code>
 <code><img width="5%" title="Selenoid" src="src/images/selenoid-logo.svg"></code>
 <code><img width="5%" title="Gradle" src="src/images/gradle-logo.svg "></code>
 <code><img width="5%" title="JUnit5" src="src/images/junit5-logo.svg"></code>
